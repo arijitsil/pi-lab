@@ -1,4 +1,4 @@
-# spring - core step by step training
+# spring - core and mvc step by step training
 
 In this repository I will be adding projects which I am using to train myself 
 in Spring Core and Spring MVC
